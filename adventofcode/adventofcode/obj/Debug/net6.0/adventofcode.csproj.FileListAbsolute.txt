@@ -13,3 +13,17 @@
 /Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Debug/net6.0/adventofcode.pdb
 /Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Debug/net6.0/adventofcode.genruntimeconfig.cache
 /Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Debug/net6.0/ref/adventofcode.dll
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\bin\Debug\net6.0\adventofcode.exe
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\bin\Debug\net6.0\adventofcode.deps.json
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\bin\Debug\net6.0\adventofcode.runtimeconfig.json
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\bin\Debug\net6.0\adventofcode.dll
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\bin\Debug\net6.0\adventofcode.pdb
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.AssemblyInfoInputs.cache
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.AssemblyInfo.cs
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.csproj.CoreCompileInputs.cache
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.dll
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\obj\Debug\net6.0\refint\adventofcode.dll
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.pdb
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.genruntimeconfig.cache
+C:\Users\2265786\Documents\AOF2020\adventofcode\adventofcode\obj\Debug\net6.0\ref\adventofcode.dll

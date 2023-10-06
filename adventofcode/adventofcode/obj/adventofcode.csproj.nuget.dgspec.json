@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/adventofcode.csproj": {}
+    "C:\\Users\\2265786\\Documents\\AOF2020\\adventofcode\\adventofcode\\adventofcode.csproj": {}
   },
   "projects": {
-    "/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/adventofcode.csproj": {
+    "C:\\Users\\2265786\\Documents\\AOF2020\\adventofcode\\adventofcode\\adventofcode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/adventofcode.csproj",
+        "projectUniqueName": "C:\\Users\\2265786\\Documents\\AOF2020\\adventofcode\\adventofcode\\adventofcode.csproj",
         "projectName": "adventofcode",
-        "projectPath": "/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/adventofcode.csproj",
-        "packagesPath": "/Users/nahorramberttsafackfadia/.nuget/packages/",
-        "outputPath": "/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/",
+        "projectPath": "C:\\Users\\2265786\\Documents\\AOF2020\\adventofcode\\adventofcode\\adventofcode.csproj",
+        "packagesPath": "C:\\Users\\2265786\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2265786\\Documents\\AOF2020\\adventofcode\\adventofcode\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/nahorramberttsafackfadia/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\2265786\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
