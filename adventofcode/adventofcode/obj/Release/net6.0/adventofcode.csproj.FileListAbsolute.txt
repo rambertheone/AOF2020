@@ -1,0 +1,15 @@
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/bin/Release/net6.0/adventofcode
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/bin/Release/net6.0/adventofcode.deps.json
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/bin/Release/net6.0/adventofcode.runtimeconfig.json
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/bin/Release/net6.0/adventofcode.dll
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/bin/Release/net6.0/adventofcode.pdb
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Release/net6.0/adventofcode.csproj.AssemblyReference.cache
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Release/net6.0/adventofcode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Release/net6.0/adventofcode.AssemblyInfoInputs.cache
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Release/net6.0/adventofcode.AssemblyInfo.cs
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Release/net6.0/adventofcode.csproj.CoreCompileInputs.cache
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Release/net6.0/adventofcode.dll
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Release/net6.0/refint/adventofcode.dll
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Release/net6.0/adventofcode.pdb
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Release/net6.0/adventofcode.genruntimeconfig.cache
+/Users/nahorramberttsafackfadia/Library/CloudStorage/OneDrive-JohnAbbottCollege/3 Semester/adventofcode/adventofcode/obj/Release/net6.0/ref/adventofcode.dll
