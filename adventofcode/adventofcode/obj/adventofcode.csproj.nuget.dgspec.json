@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/AdventOfCode/AdventOfCode.csproj": {}
+    "/Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/adventofcode/adventofcode.csproj": {}
   },
   "projects": {
-    "/Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/AdventOfCode/AdventOfCode.csproj": {
+    "/Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/adventofcode/adventofcode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/AdventOfCode/AdventOfCode.csproj",
-        "projectName": "AdventOfCode",
-        "projectPath": "/Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/AdventOfCode/AdventOfCode.csproj",
+        "projectUniqueName": "/Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/adventofcode/adventofcode.csproj",
+        "projectName": "adventofcode",
+        "projectPath": "/Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/adventofcode/adventofcode.csproj",
         "packagesPath": "/Users/nahorramberttsafackfadia/.nuget/packages/",
-        "outputPath": "/Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/AdventOfCode/obj/",
+        "outputPath": "/Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/adventofcode/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nahorramberttsafackfadia/.nuget/NuGet/NuGet.Config"

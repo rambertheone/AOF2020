@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{C9E1055F-262E-4AF4-9335-C9A01413A4C8}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AdventOfCode PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="adventofcode/Program.cs">
     <Files>
-      <File FileName="AdventOfCode/Program.cs" Line="137" Column="43" />
+      <File FileName="AdventOfCode/Program.cs" Line="19" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AdventOfCode">
+          <Node name="AdventOfCode" expanded="True">
             <Node name="AdventOfCode">
               <Node name="Program.cs" selected="True" />
             </Node>
@@ -18,10 +19,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/adventofcode/Program.cs" relfile="adventofcode/Program.cs" line="24" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AdventOfCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
