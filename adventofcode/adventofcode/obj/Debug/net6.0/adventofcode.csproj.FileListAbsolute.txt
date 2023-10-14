@@ -13,3 +13,17 @@
 /Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/adventofcode/obj/Debug/net6.0/adventofcode.pdb
 /Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/adventofcode/obj/Debug/net6.0/adventofcode.genruntimeconfig.cache
 /Users/nahorramberttsafackfadia/Documents/AOF2020/adventofcode/adventofcode/obj/Debug/net6.0/ref/adventofcode.dll
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.exe
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.deps.json
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.runtimeconfig.json
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.dll
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.pdb
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.AssemblyInfoInputs.cache
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.AssemblyInfo.cs
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.dll
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\refint\AdventOfCode.dll
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.pdb
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.genruntimeconfig.cache
+C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\ref\AdventOfCode.dll
