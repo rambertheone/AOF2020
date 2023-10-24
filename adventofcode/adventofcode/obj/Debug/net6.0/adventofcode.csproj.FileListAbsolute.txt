@@ -27,3 +27,17 @@ C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\refi
 C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.pdb
 C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.genruntimeconfig.cache
 C:\Users\tsafa\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\ref\AdventOfCode.dll
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.exe
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.deps.json
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.runtimeconfig.json
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.dll
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\bin\Debug\net6.0\AdventOfCode.pdb
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.AssemblyInfoInputs.cache
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.AssemblyInfo.cs
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.dll
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\refint\AdventOfCode.dll
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.pdb
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\AdventOfCode.genruntimeconfig.cache
+C:\Users\2265786\Documents\AOF2020\adventofcode\AdventOfCode\obj\Debug\net6.0\ref\AdventOfCode.dll
